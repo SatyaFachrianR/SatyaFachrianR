@@ -1,10 +1,12 @@
 # Hey there, I'm Satya Fachrian Raditya<img src="https://raw.githubusercontent.com/ethze/gif-rchive/5eaaf0307df6cf8ad869b9dc1b65e400fa9f735b/heart-black.gif" alt="Heart" width="30"/>
-### Fullstack Developer & Machine Learning Enthusiast
+### Fullstack Developer & Machine Learning Enthusiast, a problem solver at heart
 
 I enjoy turning complex problems into simple, working solutions. From the backend to the interface, and from data to intelligent features, I care about writing clean, maintainable code and building smooth, intuitive user experiences.
 
+<!--
 #### Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/USERNAME/) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/USERNAME) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
+-->
 
 ### ⚙️ Tech Stack:
 <img align="right" src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="Coding" width="150"/>
@@ -41,11 +43,13 @@ I enjoy turning complex problems into simple, working solutions. From the backen
 
 ### 🔧 Current Work
 
--   Building **[nama proyek]**, focusing on clean architecture and smooth user experience.
+-   Building a simple web app that uses a machine learning model (Next.js + FastAPI).
+-   Practicing ML basics with Python and scikit-learn, and trying to connect the models to a small web app.
 
 ### I'm currently learning:
-- Integrating machine learning models into production apps
-- [Topik lain yang lagi kamu pelajari]
+- Machine learning basics
+- Connecting ML models to web apps
+- Writing cleaner, more maintainable code
 
 ### Environment:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
