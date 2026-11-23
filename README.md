@@ -32,8 +32,6 @@ I enjoy turning complex problems into simple, working solutions. From the backen
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
@@ -48,7 +46,7 @@ I enjoy turning complex problems into simple, working solutions. From the backen
 
 ### I'm currently learning:
 - Machine learning basics
-- Connecting ML models to web apps
+- Projecting Ml models for learning purpose
 - Writing cleaner, more maintainable code
 
 ### Environment:
