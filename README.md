@@ -1,7 +1,7 @@
 # Hey there, I'm Satya Fachrian Raditya<img src="https://raw.githubusercontent.com/ethze/gif-rchive/5eaaf0307df6cf8ad869b9dc1b65e400fa9f735b/heart-black.gif" alt="Heart" width="30"/>
 ### Fullstack Developer & Machine Learning Enthusiast, a problem solver at heart
 
-I enjoy turning complex problems into simple, working solutions. From the backend to the interface, and from data to intelligent features, I care about writing clean, maintainable code and building smooth, intuitive user experiences.
+I like building web apps that feel smooth to use, and I'm still learning how to keep the code behind them clean and easy to maintain. Lately I've also been curious about how machine learning models actually work, and how to connect them to real applications.
 
 <!--
 #### Connect with me:
@@ -48,6 +48,7 @@ I enjoy turning complex problems into simple, working solutions. From the backen
 - Machine learning basics
 - Projecting Ml models for learning purpose
 - Writing cleaner, more maintainable code
+- Math(Calculus, Linear Algebra, Statistics, Probability)
 
 ### Environment:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
