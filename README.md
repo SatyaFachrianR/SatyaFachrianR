@@ -53,6 +53,7 @@ I enjoy turning complex problems into simple, working solutions. From the backen
 
 ### Environment:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Footer" width="100%"/>
