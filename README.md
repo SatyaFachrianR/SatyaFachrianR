@@ -39,10 +39,6 @@ I like building web apps that feel smooth to use, and I'm still learning how to 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
 
-### 🔧 Current Work
-
--   Building a simple web app that uses a machine learning model (Next.js + FastAPI).
--   Practicing ML basics with Python and scikit-learn, and trying to connect the models to a small web app.
 
 ### I'm currently learning:
 - Machine learning basics
