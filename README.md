@@ -1,5 +1,5 @@
 # Hey there, I'm Satya Fachrian Raditya<img src="https://raw.githubusercontent.com/ethze/gif-rchive/5eaaf0307df6cf8ad869b9dc1b65e400fa9f735b/heart-black.gif" alt="Heart" width="30"/>
-### Fullstack Developer & Machine Learning Enthusiast, a problem solver at heart
+### Fullstack Developer & Machine Learning Enthusiast
 
 I like building web apps that feel smooth to use, and I'm still learning how to keep the code behind them clean and easy to maintain. Lately I've also been curious about how machine learning models actually work, and how to connect them to real applications.
 
